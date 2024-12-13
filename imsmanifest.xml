@@ -18,9 +18,9 @@
   </metadata>
   <organizations default="B0">
     <organization identifier="B0" adlseq:objectivesGlobalToSystem="false">
-      <title>Adoção de Soluções Digitais na Gestão Cultural</title>
+      <title>Adoção de Soluções Digitais para Gestão Cultural</title>
       <item identifier="i1" identifierref="r1" isvisible="true">
-        <title>Adoção de Soluções Digitais na Gestão Cultural</title>
+        <title>Adoção de Soluções Digitais para Gestão Cultural</title>
         <imsss:sequencing>
           <imsss:objectives>
             <imsss:primaryObjective objectiveID="PRIMARYOBJ"/>
